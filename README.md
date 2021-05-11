@@ -1,7 +1,7 @@
 # encryption-decryption-system
 We made an small application using Tkinter
 
-![alt text](https://github.com/vikas-marwadi/encryption-decryption-system/blob/main/image.JPG?raw=true)
+![image not found](https://github.com/vikas-marwadi/encryption-decryption-system/blob/main/image.JPG?raw=true)
 
 ## Introduction
 
